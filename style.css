@@ -26,7 +26,7 @@ article{
   border:2px groove;
   border-radius:10px;
 }
-h3{
+h2 h3{
   text-align: center;
 }
 .a1{
@@ -51,14 +51,19 @@ h3{
   left:70%;
 }
 ol{
-  background-color: white;
+  background-color:white;
   border:2px double;
   border-radius: 10px;
   width:75%;
   height:75%;
   margin-left:4%;
-
 }
+.icon-equalizer2:before {
+    content: "\e993";
+  }
+.icon-git:before {
+    content: "\eae7";
+  }
 .s2{
   background-color: orange;
   position: absolute;
@@ -66,5 +71,4 @@ ol{
   height: 60%;
   top: 90%;
   margin:inherit;
-}
 }
