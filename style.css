@@ -1,0 +1,49 @@
+header{
+  background-color:red;
+  position: absolute;
+  width: 95%;
+  margin:inherit;
+  text-align: center;
+}
+section{
+  background-color: orange;
+  position: absolute;
+  width: 95%;
+  height: 60%;
+  top: 20%;
+  margin:inherit;
+}
+article{
+  border:2px solid;
+}
+.a1{
+  position:absolute;
+  background-color: blue;
+  width: 250px;
+  height: 300px;
+  top:17%;
+  left:10%;
+}
+.a2{
+  position:absolute;
+  background-color: blue;
+  width: 250px;
+  height: 300px;
+  top:17%;
+  left:40%;
+}
+.a3{
+  position:absolute;
+  background-color: blue;
+  width: 250px;
+  height: 300px;
+  top:17%;
+  left:70%;
+}
+ol{
+  border:2px solid;
+  width:75%;
+  height:75%;
+  margin-left:4%;
+
+}
