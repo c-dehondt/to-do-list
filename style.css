@@ -80,3 +80,10 @@ footer{
   height: 20%;
   top: 210%;
 }
+img{
+  float: left;
+  width: 5%;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-top:7px;
+}
