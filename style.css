@@ -71,20 +71,16 @@ ol{
   margin-left:3%;
   margin-right:3%;
 }
-
 li{
   color:#2C4D49
 }
-
-li:hover{ /* Apparence au survol des listes */
+li:hover{
   text-decoration: underline;
   color:#02DECF;
 }
-
-li:visited{
-  background-color: #02DECF;
+input:checked label:before{
+  color: red;
 }
-
 footer{
   background-image: url("images/article.jpg");
   position: absolute;
